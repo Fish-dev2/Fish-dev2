@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fish-dev Or Fish or Balint Fuzi
+- 👋 Hi, I’m @Fish-dev2 Or Fish or Balint Fuzi
 - 👀 I’m interested in automation, cloud systems, IT infrastructure and whatever comes my way.
 - 📷 PP by Dall-E
 <!---
